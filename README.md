@@ -30,6 +30,8 @@ To explore my portfolio website:
 
 I'm constantly striving to improve and grow as a developer. If you have any feedback, suggestions, or ideas for collaboration, feel free to reach out or submit a pull request. Let's create something amazing together!
 
----
+
+## Credits
+This project was created by [Ankush Raj Mahe Yam (ARMY)](https://github.com/AnkushRajMaheYam).
 
 All right reserved by Ankush Raj Mahe Yam
