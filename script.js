@@ -15,6 +15,8 @@ var typed = new Typed("#typing", {
     "Network Engineer",
     "YouTuber",
     "Blogger",
+    "Content Writer",
+    "Content Creator",
   ],
   typeSpeed: 100,
   Backspeed: 60,
