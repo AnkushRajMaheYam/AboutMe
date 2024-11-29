@@ -11,6 +11,7 @@ Welcome to my portfolio website! My name is Ankush Raj Mahe Yam, and I'm a passi
 - **About Me:** Learn more about my background, interests, and expertise in software development. Get a glimpse into what drives me as a developer and a lifelong learner.
 
 - **Contact:** Reach out to connect, collaborate, or simply say hello! I'm always open to new opportunities and conversations.
+![Preview of Website](preview-of-portfolio.png)
 
 ## Technologies Used
 
